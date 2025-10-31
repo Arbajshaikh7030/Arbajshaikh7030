@@ -17,7 +17,15 @@ Mumbai University | 2022 - 2025
 🎓  Machine Learning with Python
 
 ## Skills
-Python Programming (Pandas,NumPy, Seaborn, Matplotlib, Scikit-Learn) SQL Advanced Excel Power-BI Tableau Machine Learning Statistics Languages and Tools: git mssql mysql pandas postgresql python scikit_learn seaborn
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Databases** | SQL (MySQL, PostgreSQL, MS SQL Server) |
+| **Visualization Tools** | Power BI, Tableau |
+| **Spreadsheet** | Advanced Excel |
+| **Machine Learning (Basics)** | Scikit-Learn, EDA, Statistics |
+| **Other Tools** | Git, Jupyter Notebook |
+
 <!--
 **Arbajshaikh7030/Arbajshaikh7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
