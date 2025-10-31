@@ -11,11 +11,13 @@ Mumbai University | 2022 - 2025
 
 ## 📜 Certifications  
 🎓 *Data Analytics with Excel, SQL, Power BI, Python — Self Learning / Online Training*  
-🎓 *IBM: Data Analysis with Python*  
-🎓 *IBM: Python for Data Science*  
-🎓 *Power BI Advanced Dashboarding — Project Based Learning*  
+ IBM Certifications
+🎓  Data Analysis with Python*  
+🎓  Python for Data Science*  
+🎓  Machine Learning with Python
 
-
+## Skills
+Python Programming (Pandas,NumPy, Seaborn, Matplotlib, Scikit-Learn) SQL Advanced Excel Power-BI Tableau Machine Learning Statistics Languages and Tools: git mssql mysql pandas postgresql python scikit_learn seaborn
 <!--
 **Arbajshaikh7030/Arbajshaikh7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
