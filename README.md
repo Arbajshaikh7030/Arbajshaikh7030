@@ -24,6 +24,33 @@ Mumbai University | 2022 - 2025
 | **Visualization Tools** | Power BI, Tableau |
 | **Spreadsheet** | Advanced Excel |
 
+## 📊 Featured Projects  
+
+### 📈 Power BI Dashboards  
+📊 **[HR Analytics Dashboard](https://github.com/arbajshaikh/HR-ANALYTICS-DASHBOARD)** – Insights into employee attrition, performance, and retention trends.  
+💳 **[Credit Card Financial Report](https://github.com/arbajshaikh/Credit-Card-Financial-report)** – Comprehensive financial analysis dashboard.  
+📘 **[Credit Report Dashboard](https://github.com/arbajshaikh/Credit-Report)** – Visual report of customer credit and payment insights.
+
+### 🤖 Machine Learning Projects  
+🏦 **[Bank Marketing ML Model](https://github.com/arbajshaikh/BankMarketing_MLModel)** – Predictive model to improve marketing campaign success.  
+🏠 **[Boston Price Prediction Model](https://github.com/arbajshaikh/BostonPricePrediction_Model)** – Regression-based housing price prediction.  
+❤️ **[Heart Disease Prediction](https://github.com/arbajshaikh/Heart_Disease)** – Classification model predicting heart disease likelihood.  
+🌾 **[Crop Recommendation Model](https://github.com/arbajshaikh/Cropp_Recommendation_model)** – Suggested crops based on soil and weather parameters.  
+🏗️ **[Cement Composite Strength Prediction](https://github.com/arbajshaikh/CementCompositeStrength_PredictionModel)** – Regression model predicting concrete strength.  
+🛍️ **[Online Shoppers Purchasing Intention](https://github.com/arbajshaikh/Online_Shoppers_Purchasing_Intention)** – E-commerce user behavior prediction.  
+💻 **[CODEB Internship Projects](https://github.com/arbajshaikh/CODEB_Internship)** – Practical case studies and analytics tasks during internship.
+
+## 🚀 Currently Working On  
+- Strengthening **SQL** and **Power BI**  
+- Practicing **business case studies** and **data storytelling**  
+- Building a **data analytics portfolio** with real-world datasets
+
+  ## 📬 Connect With Me  
+📧 **Email:** [arbajshaikh902247@gmail.com](mailto:arbajshaikh902247@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/arbajshaikh](https://linkedin.com/in/arbajshaikh)  
+
+
+---
 <!--
 **Arbajshaikh7030/Arbajshaikh7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
