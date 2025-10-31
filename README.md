@@ -1,4 +1,4 @@
-## Hi there # 👋 Hey there, I'm **Arbaj Shaikh**  
+## Hi there 👋  I'm **Arbaj Shaikh**
 🎯 *Aspiring Data Analyst | SQL | Power BI | Python | Excel*
 
 <!--
