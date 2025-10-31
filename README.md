@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there # 👋 Hey there, I'm **Arbaj Shaikh**  
+🎯 *Aspiring Data Analyst | SQL | Power BI | Python | Excel*
 
 <!--
 **Arbajshaikh7030/Arbajshaikh7030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
